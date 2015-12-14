@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.boostor:framework:2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/java/apache-maven-3.1.0-bin/repository/com/boostor/framework/2.0-SNAPSHOT/framework-2.0-20151130.065038-35.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/java/apache-maven-3.1.0-bin/repository/com/boostor/framework/2.0-SNAPSHOT/framework-2.0-20151130.065038-35-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/java/apache-maven-3.1.0-bin/repository/com/boostor/framework/2.0-SNAPSHOT/framework-2.0-20151130.065038-35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
