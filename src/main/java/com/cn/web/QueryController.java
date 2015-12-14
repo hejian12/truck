@@ -23,6 +23,13 @@ public class QueryController extends HttpServlet {
         doPost(req,resp);
     }
 
+    /**
+     * 查询
+     * @param req
+     * @param resp
+     * @throws ServletException
+     * @throws IOException
+     */
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String date=req.getParameter("date");
